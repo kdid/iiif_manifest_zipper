@@ -1,0 +1,16 @@
+{
+  "name": "zip-downloader",
+  "version": "0.0.0",
+  "description": "Download zip from iiif manifest",
+  "main": "index.js",
+  "author": "kdid",
+  "license": "Apache2",
+  "devDependencies": {},
+  "dependencies": {
+    "archiver": "^3.1.1",
+    "aws-sdk": "^2.636.0",
+    "axios": "^0.19.2",
+    "node-uuid": "^1.4.8",
+    "request": "^2.88.2"
+  }
+}
